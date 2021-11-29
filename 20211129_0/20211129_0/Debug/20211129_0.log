@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.h(10,20): error C4596: '{ctor}': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.h(14,21): error C4596: '{dtor}': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  mainGame.cpp
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.h(10,20): error C4596: '{ctor}': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.h(14,21): error C4596: '{dtor}': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.cpp(4,1): error C2084: 'mainGame::mainGame(void)' 함수에 이미 본문이 있습니다.
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.h(10): message : '{ctor}'의 이전 정의를 참조하십시오.
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.cpp(8,1): error C2084: 'mainGame::~mainGame(void)' 함수에 이미 본문이 있습니다.
+C:\Users\김혜림\Desktop\20211129_0\20211129_0\mainGame.h(14): message : '{dtor}'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
