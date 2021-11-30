@@ -1,0 +1,8 @@
+﻿  MainGame.cpp
+C:\Users\김혜림\Desktop\20211130_0\20211130_0\Main.h(13,12): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\김혜림\Desktop\20211130_0\20211130_0\Main.h(13,12): warning C4183: 'mainGame': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+C:\Users\김혜림\Desktop\20211130_0\20211130_0\Main.h(14,11): error C2523: 'Main::~mainGame': 소멸자 태그가 일치하지 않습니다.
+C:\Users\김혜림\Desktop\20211130_0\20211130_0\MainGame.cpp(14,3): error C2524: 'mainGame': 소멸자에는 'void' 매개 변수 목록이 있어야 합니다.
+C:\Users\김혜림\Desktop\20211130_0\20211130_0\MainGame.cpp(15,3): error C2524: 'mainGame': 소멸자에는 'void' 매개 변수 목록이 있어야 합니다.
+  consoleMain.cpp
+  코드를 생성하고 있습니다...
